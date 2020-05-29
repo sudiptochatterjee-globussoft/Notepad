@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notepad</string>
+    <string name="titletransition">titleTransition</string>
+    <string name="desc_transition">descriptionTransition</string>
+</resources>
