@@ -1,0 +1,1 @@
+This notepad application is build on kotlin with mvvm architecture and room database. I also worked with Kotlin Android Extensions and used the generated synthetic extensions. Verified the work of null safety, worked with data classes, sam conversions and also with the lambdas.
